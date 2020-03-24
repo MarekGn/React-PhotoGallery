@@ -7,7 +7,7 @@ import './styles.css';
 export default function Footer() {
         return (
             <footer class="footer">
-                    <p>Prądem jebać baby stare</p>
+                    <p>FOOTER</p>
             </footer>
         );
 };
